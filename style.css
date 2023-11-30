@@ -1,0 +1,31 @@
+h1{
+    font-size: 50px;
+    font-family: 'Nova Square', sans-serif;
+    color: blueviolet;
+}
+h3{
+    font-family: 'Nova Square', sans-serif;
+    color: blue;
+    font-size: 35px;
+}
+p{
+    font-family: 'Nova Square', sans-serif;
+    font-size:28px ;
+}
+h5{
+    font-family: 'Nova Square', sans-serif;
+    color: #396ec4;
+}
+label{
+    font-family: 'Nova Square', sans-serif;
+    color: blueviolet;
+}
+body{
+    background-color: #a1f0ec;
+}
+#image,#webcam{
+    border: 5px solid black;
+    width: 320px;
+    height: 300px;
+    overflow: hidden;
+}
